@@ -35,9 +35,9 @@ Aviya Yosef ID: 325481828
 
 <img width="367" height="493" alt="image" src="https://github.com/user-attachments/assets/0d84e8e7-cb22-4171-b5b3-edf6ac87c2ba" />
 
-צאתי גם את הבדיקה של הi מיד לאחר הבלוק הנ"ל שגם קידום הi חוזר לבלוק הבדיקה מה שמבטיח את
+מצאתי גם את הבדיקה של i מיד לאחר הבלוק הנ"ל וגם בלוק קידום הi חוזר לבלוק הבדיקה מה שמבטיח את
 
-נכונות ההנחה שמדובר במבנה הבסיסי של הלולאה:
+נכונות ההנחה שמדובר במבנה בסיסי של לולאה:
 
 <img width="326" height="188" alt="image" src="https://github.com/user-attachments/assets/1f5649cb-c1a4-4b65-a043-7a14b692aacf" />
 
